@@ -1,0 +1,1007 @@
+{
+  "tasks_received": 100,
+  "tasks_completed": 100,
+  "algorithm": "sjf",
+  "execution_results": [
+    {
+      "task_id": "T000042",
+      "task_name": "Task 42",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.030321,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000068",
+      "task_name": "Task 68",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.015558,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000071",
+      "task_name": "Task 71",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.021486,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000081",
+      "task_name": "Task 81",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.022944,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000017",
+      "task_name": "Task 17",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 2,
+      "execution_time_seconds": 0.049718,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000044",
+      "task_name": "Task 44",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 2,
+      "execution_time_seconds": 0.054046,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000094",
+      "task_name": "Task 94",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 2,
+      "execution_time_seconds": 0.038618,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000007",
+      "task_name": "Task 7",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 3,
+      "execution_time_seconds": 0.042722,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000054",
+      "task_name": "Task 54",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 3,
+      "execution_time_seconds": 0.043512,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000012",
+      "task_name": "Task 12",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 4,
+      "execution_time_seconds": 0.069738,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000015",
+      "task_name": "Task 15",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 4,
+      "execution_time_seconds": 0.047079,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000070",
+      "task_name": "Task 70",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 4,
+      "execution_time_seconds": 0.072871,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000100",
+      "task_name": "Task 100",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 4,
+      "execution_time_seconds": 0.086509,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000011",
+      "task_name": "Task 11",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 5,
+      "execution_time_seconds": 0.103243,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000046",
+      "task_name": "Task 46",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 5,
+      "execution_time_seconds": 0.131372,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000002",
+      "task_name": "Task 2",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 6,
+      "execution_time_seconds": 0.149958,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000029",
+      "task_name": "Task 29",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 6,
+      "execution_time_seconds": 0.146724,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000098",
+      "task_name": "Task 98",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 6,
+      "execution_time_seconds": 0.137789,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000028",
+      "task_name": "Task 28",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 8,
+      "execution_time_seconds": 0.145699,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000057",
+      "task_name": "Task 57",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 8,
+      "execution_time_seconds": 0.158558,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000031",
+      "task_name": "Task 31",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 9,
+      "execution_time_seconds": 0.181325,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000039",
+      "task_name": "Task 39",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 9,
+      "execution_time_seconds": 0.14707,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000045",
+      "task_name": "Task 45",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 9,
+      "execution_time_seconds": 0.178721,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000059",
+      "task_name": "Task 59",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 9,
+      "execution_time_seconds": 0.186777,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000083",
+      "task_name": "Task 83",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "on-demand",
+      "burst_time": 9,
+      "execution_time_seconds": 0.20716,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000013",
+      "task_name": "Task 13",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 1,
+      "execution_time_seconds": 0.024159,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000019",
+      "task_name": "Task 19",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 1,
+      "execution_time_seconds": 0.022675,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000037",
+      "task_name": "Task 37",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 1,
+      "execution_time_seconds": 0.019659,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000075",
+      "task_name": "Task 75",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 2,
+      "execution_time_seconds": 0.03847,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000080",
+      "task_name": "Task 80",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 2,
+      "execution_time_seconds": 0.033988,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000040",
+      "task_name": "Task 40",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 3,
+      "execution_time_seconds": 0.057752,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000041",
+      "task_name": "Task 41",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 3,
+      "execution_time_seconds": 0.061088,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000003",
+      "task_name": "Task 3",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 4,
+      "execution_time_seconds": 0.083143,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000026",
+      "task_name": "Task 26",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 4,
+      "execution_time_seconds": 0.0947,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000047",
+      "task_name": "Task 47",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 4,
+      "execution_time_seconds": 0.06621,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000060",
+      "task_name": "Task 60",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 4,
+      "execution_time_seconds": 0.088353,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000021",
+      "task_name": "Task 21",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 5,
+      "execution_time_seconds": 0.102921,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000091",
+      "task_name": "Task 91",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 5,
+      "execution_time_seconds": 0.101986,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000049",
+      "task_name": "Task 49",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 6,
+      "execution_time_seconds": 0.115831,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000051",
+      "task_name": "Task 51",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 6,
+      "execution_time_seconds": 0.187756,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000092",
+      "task_name": "Task 92",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 6,
+      "execution_time_seconds": 0.07912,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000048",
+      "task_name": "Task 48",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 7,
+      "execution_time_seconds": 0.115326,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000074",
+      "task_name": "Task 74",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 7,
+      "execution_time_seconds": 0.138206,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000010",
+      "task_name": "Task 10",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 8,
+      "execution_time_seconds": 0.140127,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000036",
+      "task_name": "Task 36",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 8,
+      "execution_time_seconds": 0.171233,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000030",
+      "task_name": "Task 30",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 9,
+      "execution_time_seconds": 0.193309,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000093",
+      "task_name": "Task 93",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 9,
+      "execution_time_seconds": 0.193876,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000009",
+      "task_name": "Task 9",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 10,
+      "execution_time_seconds": 0.212131,
+      "result": 47999861
+    },
+    {
+      "task_id": "T000066",
+      "task_name": "Task 66",
+      "status": "completed",
+      "task_type": "critical",
+      "execution_mode": "host",
+      "burst_time": 10,
+      "execution_time_seconds": 0.220592,
+      "result": 47999861
+    },
+    {
+      "task_id": "T000027",
+      "task_name": "Task 27",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.021848,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000038",
+      "task_name": "Task 38",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.02302,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000055",
+      "task_name": "Task 55",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.019243,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000056",
+      "task_name": "Task 56",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.021252,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000058",
+      "task_name": "Task 58",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.020236,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000067",
+      "task_name": "Task 67",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.018179,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000076",
+      "task_name": "Task 76",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 1,
+      "execution_time_seconds": 0.018885,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000082",
+      "task_name": "Task 82",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 3,
+      "execution_time_seconds": 0.062479,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000084",
+      "task_name": "Task 84",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 3,
+      "execution_time_seconds": 0.060902,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000033",
+      "task_name": "Task 33",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 4,
+      "execution_time_seconds": 0.085112,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000050",
+      "task_name": "Task 50",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 4,
+      "execution_time_seconds": 0.084413,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000064",
+      "task_name": "Task 64",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 5,
+      "execution_time_seconds": 0.098941,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000090",
+      "task_name": "Task 90",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 5,
+      "execution_time_seconds": 0.127384,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000097",
+      "task_name": "Task 97",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 5,
+      "execution_time_seconds": 0.105659,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000025",
+      "task_name": "Task 25",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 6,
+      "execution_time_seconds": 0.128609,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000052",
+      "task_name": "Task 52",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 6,
+      "execution_time_seconds": 0.121455,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000089",
+      "task_name": "Task 89",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 6,
+      "execution_time_seconds": 0.14111,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000016",
+      "task_name": "Task 16",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 7,
+      "execution_time_seconds": 0.16167,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000034",
+      "task_name": "Task 34",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 7,
+      "execution_time_seconds": 0.151174,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000062",
+      "task_name": "Task 62",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 7,
+      "execution_time_seconds": 0.138797,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000077",
+      "task_name": "Task 77",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 7,
+      "execution_time_seconds": 0.146412,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000020",
+      "task_name": "Task 20",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 8,
+      "execution_time_seconds": 0.175227,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000043",
+      "task_name": "Task 43",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 8,
+      "execution_time_seconds": 0.175978,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000088",
+      "task_name": "Task 88",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 9,
+      "execution_time_seconds": 0.16574,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000001",
+      "task_name": "Task 1",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 10,
+      "execution_time_seconds": 0.204733,
+      "result": 47999861
+    },
+    {
+      "task_id": "T000079",
+      "task_name": "Task 79",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 10,
+      "execution_time_seconds": 0.214784,
+      "result": 47999861
+    },
+    {
+      "task_id": "T000087",
+      "task_name": "Task 87",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "on-demand",
+      "burst_time": 10,
+      "execution_time_seconds": 0.195774,
+      "result": 47999861
+    },
+    {
+      "task_id": "T000072",
+      "task_name": "Task 72",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 1,
+      "execution_time_seconds": 0.021519,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000085",
+      "task_name": "Task 85",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 1,
+      "execution_time_seconds": 0.016559,
+      "result": 4800196
+    },
+    {
+      "task_id": "T000024",
+      "task_name": "Task 24",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 2,
+      "execution_time_seconds": 0.041105,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000053",
+      "task_name": "Task 53",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 2,
+      "execution_time_seconds": 0.038374,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000078",
+      "task_name": "Task 78",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 2,
+      "execution_time_seconds": 0.042474,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000086",
+      "task_name": "Task 86",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 2,
+      "execution_time_seconds": 0.043355,
+      "result": 9600239
+    },
+    {
+      "task_id": "T000032",
+      "task_name": "Task 32",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 3,
+      "execution_time_seconds": 0.063589,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000065",
+      "task_name": "Task 65",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 3,
+      "execution_time_seconds": 0.066387,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000099",
+      "task_name": "Task 99",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 3,
+      "execution_time_seconds": 0.072858,
+      "result": 14400219
+    },
+    {
+      "task_id": "T000035",
+      "task_name": "Task 35",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 4,
+      "execution_time_seconds": 0.083088,
+      "result": 19200129
+    },
+    {
+      "task_id": "T000018",
+      "task_name": "Task 18",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 5,
+      "execution_time_seconds": 0.084715,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000022",
+      "task_name": "Task 22",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 5,
+      "execution_time_seconds": 0.100865,
+      "result": 24000059
+    },
+    {
+      "task_id": "T000069",
+      "task_name": "Task 69",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 6,
+      "execution_time_seconds": 0.125453,
+      "result": 28800099
+    },
+    {
+      "task_id": "T000023",
+      "task_name": "Task 23",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 7,
+      "execution_time_seconds": 0.151892,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000061",
+      "task_name": "Task 61",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 7,
+      "execution_time_seconds": 0.147812,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000063",
+      "task_name": "Task 63",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 7,
+      "execution_time_seconds": 0.151352,
+      "result": 33599951
+    },
+    {
+      "task_id": "T000004",
+      "task_name": "Task 4",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 8,
+      "execution_time_seconds": 0.176956,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000006",
+      "task_name": "Task 6",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 8,
+      "execution_time_seconds": 0.184364,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000014",
+      "task_name": "Task 14",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 8,
+      "execution_time_seconds": 0.187161,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000095",
+      "task_name": "Task 95",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 8,
+      "execution_time_seconds": 0.118671,
+      "result": 38399899
+    },
+    {
+      "task_id": "T000005",
+      "task_name": "Task 5",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 9,
+      "execution_time_seconds": 0.150438,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000096",
+      "task_name": "Task 96",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 9,
+      "execution_time_seconds": 0.207896,
+      "result": 43199839
+    },
+    {
+      "task_id": "T000008",
+      "task_name": "Task 8",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 10,
+      "execution_time_seconds": 0.216988,
+      "result": 47999861
+    },
+    {
+      "task_id": "T000073",
+      "task_name": "Task 73",
+      "status": "completed",
+      "task_type": "non-critical",
+      "execution_mode": "host",
+      "burst_time": 10,
+      "execution_time_seconds": 0.188382,
+      "result": 47999861
+    }
+  ]
+}
